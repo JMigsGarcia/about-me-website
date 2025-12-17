@@ -1,2 +1,2 @@
 # about-me-website
-My first HTML,CSS, and JavaScript project
+Me, Myself, and I (HTML, CSS, Javascript Project)
