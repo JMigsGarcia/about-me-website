@@ -1,2 +1,2 @@
-# Basic HTML
-Me, Myself, and I (Using HTML only(No code in CSS and JS))
+# Basic HTML and Internal CSS
+Me, Myself, and I (Using HTML and internal CSS)
